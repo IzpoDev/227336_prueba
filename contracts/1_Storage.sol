@@ -5,7 +5,7 @@ pragma solidity >=0.8.2 <0.9.0;
 
 contract Storage {
 
-    uint256 number; //Este es un comentario de una sola linea
+    uint256 number; //Este es un comentario de una sola linea 
     /*
         Este es un comentario de multiples lineas
     */
